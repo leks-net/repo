@@ -1,5 +1,6 @@
-[
-{ "id": 1,
+{
+"messages": [
+		{ "id": 1,
         "date": "2022-06-22T10:25:15Z",
         "title": "Title 1",
         "message": "Message Message Message Message Message Message Message Message Message Message 1",
@@ -58,5 +59,6 @@
         "title": "Title 6",
         "message": "Message 6",
         "read": true
-      },
+      }
 ]
+}
